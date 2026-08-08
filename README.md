@@ -10,16 +10,19 @@ Automatically synced GeeksforGeeks solutions.
 | 2 | [Factorial](./0002-factorial5739) | Basic | C |
 | 3 | [The FizzBuzz Program](./0003-the-fizzbuzz-program) | Easy | Java |
 | 4 | [First Occurrence in Sorted](./0004-binary-search) | Easy | Java |
+| 5 | [First and Last in Sorted](./0005-first-and-last-occurrences-of-x3116) | Medium | Java |
 
 ## Topics
 
 ### Arrays
 
 - [0004-binary-search](./0004-binary-search)
+- [0005-first-and-last-occurrences-of-x3116](./0005-first-and-last-occurrences-of-x3116)
 
 ### Binary Search
 
 - [0001-who-will-win](./0001-who-will-win)
+- [0005-first-and-last-occurrences-of-x3116](./0005-first-and-last-occurrences-of-x3116)
 
 ### CPP
 
