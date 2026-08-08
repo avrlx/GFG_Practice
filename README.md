@@ -12,6 +12,7 @@ Automatically synced GeeksforGeeks solutions.
 | 4 | [First Occurrence in Sorted](./0004-binary-search) | Easy | Java |
 | 5 | [First and Last in Sorted](./0005-first-and-last-occurrences-of-x3116) | Medium | Java |
 | 6 | [Peak element](./0006-peak-element) | Medium | Java |
+| 7 | [Floor in a Sorted Array](./0007-floor-in-a-sorted-array) | Easy | Java |
 
 ## Topics
 
@@ -56,3 +57,8 @@ Automatically synced GeeksforGeeks solutions.
 - [0001-who-will-win](./0001-who-will-win)
 - [0004-binary-search](./0004-binary-search)
 - [0006-peak-element](./0006-peak-element)
+- [0007-floor-in-a-sorted-array](./0007-floor-in-a-sorted-array)
+
+### Sorting
+
+- [0007-floor-in-a-sorted-array](./0007-floor-in-a-sorted-array)
