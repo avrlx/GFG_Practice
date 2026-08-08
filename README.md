@@ -13,6 +13,7 @@ Automatically synced GeeksforGeeks solutions.
 | 5 | [First and Last in Sorted](./0005-first-and-last-occurrences-of-x3116) | Medium | Java |
 | 6 | [Peak element](./0006-peak-element) | Medium | Java |
 | 7 | [Floor in a Sorted Array](./0007-floor-in-a-sorted-array) | Easy | Java |
+| 8 | [Square Root](./0008-square-root) | Easy | Java |
 
 ## Topics
 
@@ -27,6 +28,7 @@ Automatically synced GeeksforGeeks solutions.
 - [0001-who-will-win](./0001-who-will-win)
 - [0005-first-and-last-occurrences-of-x3116](./0005-first-and-last-occurrences-of-x3116)
 - [0006-peak-element](./0006-peak-element)
+- [0008-square-root](./0008-square-root)
 
 ### CPP
 
@@ -43,6 +45,7 @@ Automatically synced GeeksforGeeks solutions.
 ### Mathematical
 
 - [0002-factorial5739](./0002-factorial5739)
+- [0008-square-root](./0008-square-root)
 
 ### python
 
@@ -58,6 +61,7 @@ Automatically synced GeeksforGeeks solutions.
 - [0004-binary-search](./0004-binary-search)
 - [0006-peak-element](./0006-peak-element)
 - [0007-floor-in-a-sorted-array](./0007-floor-in-a-sorted-array)
+- [0008-square-root](./0008-square-root)
 
 ### Sorting
 
