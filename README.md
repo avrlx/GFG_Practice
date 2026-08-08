@@ -14,6 +14,7 @@ Automatically synced GeeksforGeeks solutions.
 | 6 | [Peak element](./0006-peak-element) | Medium | Java |
 | 7 | [Floor in a Sorted Array](./0007-floor-in-a-sorted-array) | Easy | Java |
 | 8 | [Square Root](./0008-square-root) | Easy | Java |
+| 9 | [Single Among Doubles in a Sorted](./0009-find-the-element-that-appears-once-in-sorted-array0624) | Medium | Java |
 
 ## Topics
 
@@ -37,6 +38,7 @@ Automatically synced GeeksforGeeks solutions.
 ### Divide and Conquer
 
 - [0004-binary-search](./0004-binary-search)
+- [0009-find-the-element-that-appears-once-in-sorted-array0624](./0009-find-the-element-that-appears-once-in-sorted-array0624)
 
 ### Java
 
@@ -62,6 +64,7 @@ Automatically synced GeeksforGeeks solutions.
 - [0006-peak-element](./0006-peak-element)
 - [0007-floor-in-a-sorted-array](./0007-floor-in-a-sorted-array)
 - [0008-square-root](./0008-square-root)
+- [0009-find-the-element-that-appears-once-in-sorted-array0624](./0009-find-the-element-that-appears-once-in-sorted-array0624)
 
 ### Sorting
 
