@@ -17,6 +17,7 @@ Automatically synced GeeksforGeeks solutions.
 | 9 | [Single Among Doubles in a Sorted](./0009-find-the-element-that-appears-once-in-sorted-array0624) | Medium | Java |
 | 10 | [Search in Rotated Sorted Array](./0010-search-in-a-rotated-array4618) | Medium | Java |
 | 11 | [Kth Missing Positive Number in a Sorted Array](./0011-kth-missing-positive-number-in-a-sorted-array) | Medium | Java |
+| 12 | [Palindrome String](./0012-palindrome-string0817) | Easy | Java |
 
 ## Topics
 
@@ -75,3 +76,11 @@ Automatically synced GeeksforGeeks solutions.
 ### Sorting
 
 - [0007-floor-in-a-sorted-array](./0007-floor-in-a-sorted-array)
+
+### Strings
+
+- [0012-palindrome-string0817](./0012-palindrome-string0817)
+
+### two-pointer-algorithm
+
+- [0012-palindrome-string0817](./0012-palindrome-string0817)
