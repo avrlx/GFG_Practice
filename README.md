@@ -15,6 +15,7 @@ Automatically synced GeeksforGeeks solutions.
 | 7 | [Floor in a Sorted Array](./0007-floor-in-a-sorted-array) | Easy | Java |
 | 8 | [Square Root](./0008-square-root) | Easy | Java |
 | 9 | [Single Among Doubles in a Sorted](./0009-find-the-element-that-appears-once-in-sorted-array0624) | Medium | Java |
+| 10 | [Search in Rotated Sorted Array](./0010-search-in-a-rotated-array4618) | Medium | Java |
 
 ## Topics
 
@@ -39,6 +40,7 @@ Automatically synced GeeksforGeeks solutions.
 
 - [0004-binary-search](./0004-binary-search)
 - [0009-find-the-element-that-appears-once-in-sorted-array0624](./0009-find-the-element-that-appears-once-in-sorted-array0624)
+- [0010-search-in-a-rotated-array4618](./0010-search-in-a-rotated-array4618)
 
 ### Java
 
@@ -65,6 +67,7 @@ Automatically synced GeeksforGeeks solutions.
 - [0007-floor-in-a-sorted-array](./0007-floor-in-a-sorted-array)
 - [0008-square-root](./0008-square-root)
 - [0009-find-the-element-that-appears-once-in-sorted-array0624](./0009-find-the-element-that-appears-once-in-sorted-array0624)
+- [0010-search-in-a-rotated-array4618](./0010-search-in-a-rotated-array4618)
 
 ### Sorting
 
