@@ -16,6 +16,7 @@ Automatically synced GeeksforGeeks solutions.
 | 8 | [Square Root](./0008-square-root) | Easy | Java |
 | 9 | [Single Among Doubles in a Sorted](./0009-find-the-element-that-appears-once-in-sorted-array0624) | Medium | Java |
 | 10 | [Search in Rotated Sorted Array](./0010-search-in-a-rotated-array4618) | Medium | Java |
+| 11 | [Kth Missing Positive Number in a Sorted Array](./0011-kth-missing-positive-number-in-a-sorted-array) | Medium | Java |
 
 ## Topics
 
@@ -24,6 +25,7 @@ Automatically synced GeeksforGeeks solutions.
 - [0004-binary-search](./0004-binary-search)
 - [0005-first-and-last-occurrences-of-x3116](./0005-first-and-last-occurrences-of-x3116)
 - [0006-peak-element](./0006-peak-element)
+- [0011-kth-missing-positive-number-in-a-sorted-array](./0011-kth-missing-positive-number-in-a-sorted-array)
 
 ### Binary Search
 
@@ -31,6 +33,7 @@ Automatically synced GeeksforGeeks solutions.
 - [0005-first-and-last-occurrences-of-x3116](./0005-first-and-last-occurrences-of-x3116)
 - [0006-peak-element](./0006-peak-element)
 - [0008-square-root](./0008-square-root)
+- [0011-kth-missing-positive-number-in-a-sorted-array](./0011-kth-missing-positive-number-in-a-sorted-array)
 
 ### CPP
 
