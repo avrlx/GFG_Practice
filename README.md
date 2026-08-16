@@ -19,6 +19,7 @@ Automatically synced GeeksforGeeks solutions.
 | 11 | [Kth Missing Positive Number in a Sorted Array](./0011-kth-missing-positive-number-in-a-sorted-array) | Medium | Java |
 | 12 | [Palindrome String](./0012-palindrome-string0817) | Easy | Java |
 | 13 | [Change the Case based on First Character](./0013-change-the-string3541) | Basic | Java |
+| 14 | [Sum of all substrings of a number](./0014-sum-of-all-substrings-of-a-number) | Medium | Java |
 
 ## Topics
 
@@ -46,6 +47,10 @@ Automatically synced GeeksforGeeks solutions.
 - [0004-binary-search](./0004-binary-search)
 - [0009-find-the-element-that-appears-once-in-sorted-array0624](./0009-find-the-element-that-appears-once-in-sorted-array0624)
 - [0010-search-in-a-rotated-array4618](./0010-search-in-a-rotated-array4618)
+
+### Dynamic Programming
+
+- [0014-sum-of-all-substrings-of-a-number](./0014-sum-of-all-substrings-of-a-number)
 
 ### Java
 
@@ -82,6 +87,7 @@ Automatically synced GeeksforGeeks solutions.
 
 - [0012-palindrome-string0817](./0012-palindrome-string0817)
 - [0013-change-the-string3541](./0013-change-the-string3541)
+- [0014-sum-of-all-substrings-of-a-number](./0014-sum-of-all-substrings-of-a-number)
 
 ### two-pointer-algorithm
 
