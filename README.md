@@ -20,6 +20,7 @@ Automatically synced GeeksforGeeks solutions.
 | 12 | [Palindrome String](./0012-palindrome-string0817) | Easy | Java |
 | 13 | [Change the Case based on First Character](./0013-change-the-string3541) | Basic | Java |
 | 14 | [Sum of all substrings of a number](./0014-sum-of-all-substrings-of-a-number) | Medium | Java |
+| 15 | [Anagram](./0015-anagram) | Easy | Java |
 
 ## Topics
 
@@ -82,12 +83,14 @@ Automatically synced GeeksforGeeks solutions.
 ### Sorting
 
 - [0007-floor-in-a-sorted-array](./0007-floor-in-a-sorted-array)
+- [0015-anagram](./0015-anagram)
 
 ### Strings
 
 - [0012-palindrome-string0817](./0012-palindrome-string0817)
 - [0013-change-the-string3541](./0013-change-the-string3541)
 - [0014-sum-of-all-substrings-of-a-number](./0014-sum-of-all-substrings-of-a-number)
+- [0015-anagram](./0015-anagram)
 
 ### two-pointer-algorithm
 
