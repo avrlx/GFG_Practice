@@ -22,6 +22,7 @@ Automatically synced GeeksforGeeks solutions.
 | 14 | [Sum of all substrings of a number](./0014-sum-of-all-substrings-of-a-number) | Medium | Java |
 | 15 | [Anagram](./0015-anagram) | Easy | Java |
 | 16 | [Most Frequent Character](./0016-maximum-occuring-character) | Easy | Java |
+| 17 | [Non Repeating Character](./0017-non-repeating-character) | Easy | Java |
 
 ## Topics
 
@@ -53,6 +54,10 @@ Automatically synced GeeksforGeeks solutions.
 ### Dynamic Programming
 
 - [0014-sum-of-all-substrings-of-a-number](./0014-sum-of-all-substrings-of-a-number)
+
+### Hash
+
+- [0017-non-repeating-character](./0017-non-repeating-character)
 
 ### Java
 
@@ -93,6 +98,7 @@ Automatically synced GeeksforGeeks solutions.
 - [0014-sum-of-all-substrings-of-a-number](./0014-sum-of-all-substrings-of-a-number)
 - [0015-anagram](./0015-anagram)
 - [0016-maximum-occuring-character](./0016-maximum-occuring-character)
+- [0017-non-repeating-character](./0017-non-repeating-character)
 
 ### two-pointer-algorithm
 
