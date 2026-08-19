@@ -23,6 +23,7 @@ Automatically synced GeeksforGeeks solutions.
 | 15 | [Anagram](./0015-anagram) | Easy | Java |
 | 16 | [Most Frequent Character](./0016-maximum-occuring-character) | Easy | Java |
 | 17 | [Non Repeating Character](./0017-non-repeating-character) | Easy | Java |
+| 18 | [Transpose of Matrix](./0018-transpose-of-matrix) | Easy | Java |
 
 ## Topics
 
@@ -67,6 +68,10 @@ Automatically synced GeeksforGeeks solutions.
 
 - [0002-factorial5739](./0002-factorial5739)
 - [0008-square-root](./0008-square-root)
+
+### Matrix
+
+- [0018-transpose-of-matrix](./0018-transpose-of-matrix)
 
 ### python
 
