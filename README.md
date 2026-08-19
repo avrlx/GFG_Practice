@@ -24,6 +24,7 @@ Automatically synced GeeksforGeeks solutions.
 | 16 | [Most Frequent Character](./0016-maximum-occuring-character) | Easy | Java |
 | 17 | [Non Repeating Character](./0017-non-repeating-character) | Easy | Java |
 | 18 | [Transpose of Matrix](./0018-transpose-of-matrix) | Easy | Java |
+| 19 | [Rotate by 90 degree](./0019-rotate-by-90-degree) | Medium | Java |
 
 ## Topics
 
@@ -72,6 +73,7 @@ Automatically synced GeeksforGeeks solutions.
 ### Matrix
 
 - [0018-transpose-of-matrix](./0018-transpose-of-matrix)
+- [0019-rotate-by-90-degree](./0019-rotate-by-90-degree)
 
 ### python
 
