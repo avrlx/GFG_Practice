@@ -25,6 +25,7 @@ Automatically synced GeeksforGeeks solutions.
 | 17 | [Non Repeating Character](./0017-non-repeating-character) | Easy | Java |
 | 18 | [Transpose of Matrix](./0018-transpose-of-matrix) | Easy | Java |
 | 19 | [Rotate by 90 degree](./0019-rotate-by-90-degree) | Medium | Java |
+| 20 | [Pascal Triangle](./0020-pascal-triangle0652) | Medium | Java |
 
 ## Topics
 
@@ -34,6 +35,7 @@ Automatically synced GeeksforGeeks solutions.
 - [0005-first-and-last-occurrences-of-x3116](./0005-first-and-last-occurrences-of-x3116)
 - [0006-peak-element](./0006-peak-element)
 - [0011-kth-missing-positive-number-in-a-sorted-array](./0011-kth-missing-positive-number-in-a-sorted-array)
+- [0020-pascal-triangle0652](./0020-pascal-triangle0652)
 
 ### Binary Search
 
@@ -82,6 +84,10 @@ Automatically synced GeeksforGeeks solutions.
 ### python-conditionals
 
 - [0003-the-fizzbuzz-program](./0003-the-fizzbuzz-program)
+
+### Recursion
+
+- [0020-pascal-triangle0652](./0020-pascal-triangle0652)
 
 ### Searching
 
