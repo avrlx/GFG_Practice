@@ -27,6 +27,7 @@ Automatically synced GeeksforGeeks solutions.
 | 19 | [Rotate by 90 degree](./0019-rotate-by-90-degree) | Medium | Java |
 | 20 | [Pascal Triangle](./0020-pascal-triangle0652) | Medium | Java |
 | 21 | [Spirally Traversing a Matrix](./0021-spirally-traversing-a-matrix) | Medium | Java |
+| 22 | [Multiply 2 Matrices](./0022-multiply-2-matrices4144) | Medium | Java |
 
 ## Topics
 
@@ -79,6 +80,7 @@ Automatically synced GeeksforGeeks solutions.
 - [0018-transpose-of-matrix](./0018-transpose-of-matrix)
 - [0019-rotate-by-90-degree](./0019-rotate-by-90-degree)
 - [0021-spirally-traversing-a-matrix](./0021-spirally-traversing-a-matrix)
+- [0022-multiply-2-matrices4144](./0022-multiply-2-matrices4144)
 
 ### python
 
