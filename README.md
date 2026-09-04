@@ -26,6 +26,7 @@ Automatically synced GeeksforGeeks solutions.
 | 18 | [Transpose of Matrix](./0018-transpose-of-matrix) | Easy | Java |
 | 19 | [Rotate by 90 degree](./0019-rotate-by-90-degree) | Medium | Java |
 | 20 | [Pascal Triangle](./0020-pascal-triangle0652) | Medium | Java |
+| 21 | [Spirally Traversing a Matrix](./0021-spirally-traversing-a-matrix) | Medium | Java |
 
 ## Topics
 
@@ -36,6 +37,7 @@ Automatically synced GeeksforGeeks solutions.
 - [0006-peak-element](./0006-peak-element)
 - [0011-kth-missing-positive-number-in-a-sorted-array](./0011-kth-missing-positive-number-in-a-sorted-array)
 - [0020-pascal-triangle0652](./0020-pascal-triangle0652)
+- [0021-spirally-traversing-a-matrix](./0021-spirally-traversing-a-matrix)
 
 ### Binary Search
 
@@ -76,6 +78,7 @@ Automatically synced GeeksforGeeks solutions.
 
 - [0018-transpose-of-matrix](./0018-transpose-of-matrix)
 - [0019-rotate-by-90-degree](./0019-rotate-by-90-degree)
+- [0021-spirally-traversing-a-matrix](./0021-spirally-traversing-a-matrix)
 
 ### python
 
