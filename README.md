@@ -28,6 +28,7 @@ Automatically synced GeeksforGeeks solutions.
 | 20 | [Pascal Triangle](./0020-pascal-triangle0652) | Medium | Java |
 | 21 | [Spirally Traversing a Matrix](./0021-spirally-traversing-a-matrix) | Medium | Java |
 | 22 | [Multiply 2 Matrices](./0022-multiply-2-matrices4144) | Medium | Java |
+| 23 | [Count Distinct in Array](./0023-find-distinct-elements-130928) | Easy | Java |
 
 ## Topics
 
@@ -39,6 +40,7 @@ Automatically synced GeeksforGeeks solutions.
 - [0011-kth-missing-positive-number-in-a-sorted-array](./0011-kth-missing-positive-number-in-a-sorted-array)
 - [0020-pascal-triangle0652](./0020-pascal-triangle0652)
 - [0021-spirally-traversing-a-matrix](./0021-spirally-traversing-a-matrix)
+- [0023-find-distinct-elements-130928](./0023-find-distinct-elements-130928)
 
 ### Binary Search
 
