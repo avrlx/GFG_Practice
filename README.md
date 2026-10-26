@@ -29,6 +29,7 @@ Automatically synced GeeksforGeeks solutions.
 | 21 | [Spirally Traversing a Matrix](./0021-spirally-traversing-a-matrix) | Medium | Java |
 | 22 | [Multiply 2 Matrices](./0022-multiply-2-matrices4144) | Medium | Java |
 | 23 | [Count Distinct in Array](./0023-find-distinct-elements-130928) | Easy | Java |
+| 24 | [All Subsequences of String](./0024-power-set4302) | Medium | C++ |
 
 ## Topics
 
@@ -49,6 +50,10 @@ Automatically synced GeeksforGeeks solutions.
 - [0006-peak-element](./0006-peak-element)
 - [0008-square-root](./0008-square-root)
 - [0011-kth-missing-positive-number-in-a-sorted-array](./0011-kth-missing-positive-number-in-a-sorted-array)
+
+### Bit Magic
+
+- [0024-power-set4302](./0024-power-set4302)
 
 ### CPP
 
@@ -119,6 +124,7 @@ Automatically synced GeeksforGeeks solutions.
 - [0015-anagram](./0015-anagram)
 - [0016-maximum-occuring-character](./0016-maximum-occuring-character)
 - [0017-non-repeating-character](./0017-non-repeating-character)
+- [0024-power-set4302](./0024-power-set4302)
 
 ### two-pointer-algorithm
 
